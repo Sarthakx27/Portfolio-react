@@ -1,0 +1,19 @@
+@import url(./_loader.css);
+@import url(./_homepage.css);
+@import url(./_header.css);
+
+*, *::after, *::before{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    width: 100vw;
+    height: 100vw;
+    overflow: hidden;
+    font-family: 'Titillium Web', sans-serif;
+    scroll-behavior: smooth;
+    background-color: black;
+    color: white;
+}
