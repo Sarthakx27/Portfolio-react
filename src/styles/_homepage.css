@@ -2,34 +2,3 @@
     z-index: -1;
 }
 
-nav{
-    position: fixed;
-    width: 100%;
-    padding: 1em;
-    display: flex;
-    justify-content: space-between;
-}
-.navright{
-    margin-right: 20px;
-    width: 20%;
-    display: flex;
-    justify-content: space-between;
-}
-
-nav p{
-    font-size: 20px;
-    font-weight: 500;
-    text-transform: uppercase;
-}
-  
-.container h1{
-    width: 100%;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50% , -50%);
-    font-size: 60px;
-    font-weight: 500;
-    text-transform: uppercase;
-    text-align: center;
-}

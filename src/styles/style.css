@@ -1,6 +1,5 @@
 @import url(./_loader.css);
 @import url(./_homepage.css);
-@import url(./_header.css);
 
 *, *::after, *::before{
     padding: 0;
